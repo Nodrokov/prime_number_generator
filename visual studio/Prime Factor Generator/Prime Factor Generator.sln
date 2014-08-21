@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prime Factor Generator", "Prime Factor Generator\Prime Factor Generator.vcxproj", "{DAC8DC4F-6CBA-473F-A1AC-492FD0EBEFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC8DC4F-6CBA-473F-A1AC-492FD0EBEFAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DAC8DC4F-6CBA-473F-A1AC-492FD0EBEFAE}.Debug|Win32.Build.0 = Debug|Win32
+		{DAC8DC4F-6CBA-473F-A1AC-492FD0EBEFAE}.Release|Win32.ActiveCfg = Release|Win32
+		{DAC8DC4F-6CBA-473F-A1AC-492FD0EBEFAE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
